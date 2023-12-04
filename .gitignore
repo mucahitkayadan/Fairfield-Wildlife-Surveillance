@@ -1,0 +1,9 @@
+venv/
+test_images/
+machinet.conf
+base_model/
+training_images/
+logs/
+trained_model.h5
+trained_model_with_imagenet.h5
+trained_model_with_imagenet_2.keras
